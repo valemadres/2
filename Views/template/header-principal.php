@@ -58,7 +58,7 @@
                <div class="col-sm-12">
                   <div class="custom_menu">
                      <ul>
-                        <li><a href="https://www.facebook.com/">CHASKI</a></li>
+                        <li></a></li>
                      </ul>
                   </div>
                </div>
@@ -71,7 +71,7 @@
          <div class="container">
             <div class="row">
                <div class="col-sm-12">
-                  <div class="logo"><a href="<?php echo BASE_URL; ?>"><img src="<?php echo BASE_URL; ?>assets/images/logo.2.jpg" width="50"></a></div>
+                  <div class="logo"><a href="">CHASKI<img src="" width="50"></a></div>
                </div>
             </div>
          </div>

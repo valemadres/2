@@ -1,9 +1,9 @@
 <?php
-const BASE_URL = "http://localhost/sitio/";
+const BASE_URL = "http://localhost/2/";
 const HOST = "localhost";
 const USER = "root";
 const PASS = "";
-const DB = "proyecto";
+const DB = "chaski";
 const CHARSET = "charset=utf8";
 const TITLE = "TIENDA ONLINE";
 const MONEDA = "USD";
